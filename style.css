@@ -5,6 +5,10 @@
     font-family: 'Karla', Arial, Helvetica, sans-serif;
 }
 
+body {
+    background-color: hsl(218, 22%, 67%, .4);
+}
+
 .container {
     position: absolute;
     border: transparent;
